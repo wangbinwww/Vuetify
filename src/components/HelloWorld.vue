@@ -5,7 +5,7 @@
         <v-img :src="require('../assets/logo.svg')" class="my-3" contain height="200"></v-img>
       </v-flex>
       <v-flex mb-4>
-        <h1 class="display-2 font-weight-bold mb-3">欢迎使用 ICONICS</h1>
+        <h1 class="display-2 font-weight-bold mb-3">欢迎使用 ICONICS Genesis64产品</h1>
         <p class="subheading font-weight-regular">
           如需与其他ICONICS开发人员联系和协作,
           <br>请加入我们的在线
