@@ -1,13 +1,13 @@
 <template>
   <v-app>
-    <v-toolbar app>
+    <v-toolbar app dark class="indigo">
       <v-toolbar-title class="headline text-uppercase">
-        <span>Vuetify</span>
-        <span class="font-weight-light">MATERIAL DESIGN</span>
+        <span>ICONICS</span>
+        <span class="font-weight-light">很好的脚手架工具</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-btn flat href="https://github.com/vuetifyjs/vuetify/releases/latest" target="_blank">
-        <span class="mr-2">Latest Release</span>
+      <v-btn flat href="https://iconics.com/Site/About/About.aspx" target="_blank">
+        <span class="mr-2">关于ICONICS</span>
       </v-btn>
     </v-toolbar>
 
